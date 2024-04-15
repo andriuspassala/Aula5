@@ -36,7 +36,7 @@ d: diagonal menor
 
 RETÂNGULO 
 
-$A=\pi.r^{2}$
+$A$
 
 sendo:
 
@@ -50,13 +50,6 @@ RETÂNGULO
 
 $A=\frac{b.h}$
 
-sendo:
-
-A: área 
-
-b: base 
-
-h: altura 
 
 
 
