@@ -47,7 +47,19 @@ b: base
 
 h: altura
 
+TRAPÉZIO 
 
+$A=\frac{(B+b).h}{2}$
+
+sendo: 
+
+A: área 
+
+B: base maior 
+
+b: base menor 
+
+h: altura 
 
 
 
