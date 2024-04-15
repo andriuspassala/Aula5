@@ -34,9 +34,10 @@ D: diagonal maior
 
 d: diagonal menor 
 
+
 RETÂNGULO 
 
-$A$
+$A=b.h$
 
 sendo:
 
@@ -45,10 +46,6 @@ A: área
 b: base
 
 h: altura
-
-RETÂNGULO 
-
-$A=\frac{b.h}$
 
 
 
