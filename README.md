@@ -73,5 +73,8 @@ $\pi$: constante Pi
 
 r: raio
 
+Equação de 2° grau 
+
+$ax^2+bx+c=O$
 
 
