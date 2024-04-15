@@ -33,3 +33,16 @@ A: área
 D: diagonal maior 
 
 d: diagonal menor 
+
+RETÂNGULO 
+
+$A=\pi.r^{2}$
+
+sendo:
+
+A: área 
+
+b: base
+
+h: altura
+
